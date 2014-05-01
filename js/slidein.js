@@ -4,4 +4,4 @@ var slideinFoxkeh = function(){
 };
 
 var slideinFoxkehButton = document.querySelector("#slidein-foxkeh button");
-slideinFoxkehButton.addEventListener("click", slideinFoxkeh);
+slideinFoxkehButton.addEventListener("mouseover", slideinFoxkeh);
